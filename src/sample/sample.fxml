@@ -63,7 +63,7 @@
                </padding>
             </Label>
             <VBox prefHeight="19.0" prefWidth="257.0" />
-            <Label fx:id="notification" alignment="CENTER" contentDisplay="CENTER" prefHeight="76.0" prefWidth="197.0" text="NONE" textFill="#f5f702">
+            <Label fx:id="notification" alignment="CENTER" contentDisplay="CENTER" prefHeight="70.0" prefWidth="250.0" text="NONE" textFill="#f5f702">
                <VBox.margin>
                   <Insets />
                </VBox.margin>
